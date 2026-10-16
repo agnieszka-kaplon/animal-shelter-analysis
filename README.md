@@ -29,3 +29,17 @@ Visuals: KPI cards · Bar & Line Charts · Donut Chart · Tables
 The report provides insights into animal characteristics, intake trends, shelter stay patterns, and outcomes, helping to identify differences between dogs and cats and supporting data-informed shelter planning.
 
 [View Full Documentation (PDF)](README.pdf)
+
+## Dashboard Preview
+
+### Landing Page
+![Landing Page](Screenshots/LP.jpg)
+
+### Intakes Overview
+![Intakes Overview](Screenshots/intakes-overview.jpg)
+
+### Shelter Stay
+![Shelter Stay](Screenshots/shelter-stay.jpg)
+
+### Outcomes Overview
+![Outcomes Overview](Screenshots/outcomes-overview.jpg)
