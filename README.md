@@ -1,6 +1,10 @@
 # Animal Shelter Intake, Stay & Outcome Analysis
 An interactive Power BI dashboard analyzing animal intake, shelter population, length of stay, and outcome patterns based on records from 2018 to 2022.
 
+## Interactive Dashboard
+
+[**View Interactive Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiYjM1NTJjOTQtNzZhYi00NTMzLWE3Y2UtNWM5YTQ0N2IzNDU1IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
+
 ## Goal 
 Understand the flow of animals through the shelter and support informed decisions regarding animal care and adoption.
 
