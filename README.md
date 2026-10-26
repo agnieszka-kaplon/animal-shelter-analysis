@@ -5,6 +5,20 @@ An interactive Power BI dashboard analyzing animal intake, shelter population, l
 
 [**View Interactive Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiYjM1NTJjOTQtNzZhYi00NTMzLWE3Y2UtNWM5YTQ0N2IzNDU1IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
 
+## Dashboard Preview
+
+### Landing Page
+![Landing Page](Screenshots/LP.jpg)
+
+### Intakes Overview
+![Intakes Overview](Screenshots/intakes-overview.jpg)
+
+### Shelter Stay
+![Shelter Stay](Screenshots/shelter-stay.jpg)
+
+### Outcomes Overview
+![Outcomes Overview](Screenshots/outcomes-overview.jpg)
+
 ## Goal 
 Understand the flow of animals through the shelter and support informed decisions regarding animal care and adoption.
 
@@ -31,17 +45,3 @@ KPI cards · Bar & Line Charts · Donut Chart · Tables
 The report provides insights into animal characteristics, intake trends, shelter stay patterns, and outcomes, helping to identify differences between dogs and cats and supporting data-informed shelter planning.
 
 [View Full Documentation (PDF)](README.pdf)
-
-## Dashboard Preview
-
-### Landing Page
-![Landing Page](Screenshots/LP.jpg)
-
-### Intakes Overview
-![Intakes Overview](Screenshots/intakes-overview.jpg)
-
-### Shelter Stay
-![Shelter Stay](Screenshots/shelter-stay.jpg)
-
-### Outcomes Overview
-![Outcomes Overview](Screenshots/outcomes-overview.jpg)
