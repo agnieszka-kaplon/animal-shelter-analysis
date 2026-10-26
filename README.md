@@ -18,7 +18,7 @@ Relational Data Model
 CSV Transformation · Age-Related Columns · Data Type Standardization · Table Merging · Length of Stay Calculation · Calendar Table · Helper Tables · DAX Measures
 Key analysis: Animal Intakes · Intake Trends & Seasonality · Animal Characteristics · Shelter Population · Length of Stay · Adoptions & Outcomes
 
-##Visuals: KPI cards · Bar & Line Charts · Donut Chart · Tables 
+Visuals: KPI cards · Bar & Line Charts · Donut Chart · Tables 
 
 ## Key insight
 -	More than 130,000 animal intakes were recorded during the five-year period, including over 70,000 dogs and 53,000 cats.
