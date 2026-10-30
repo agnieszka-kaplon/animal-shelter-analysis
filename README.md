@@ -30,7 +30,9 @@ Relational Data Model
 
 ## Data Preparation
 CSV Transformation · Age-Related Columns · Data Type Standardization · Table Merging · Length of Stay Calculation · Calendar Table · Helper Tables · DAX Measures
-Key analysis: Animal Intakes · Intake Trends & Seasonality · Animal Characteristics · Shelter Population · Length of Stay · Adoptions & Outcomes
+
+## Key analysis
+Animal Intakes · Intake Trends & Seasonality · Animal Characteristics · Shelter Population · Length of Stay · Adoptions & Outcomes
 
 ## Visuals 
 KPI cards · Bar & Line Charts · Donut Chart · Tables 
